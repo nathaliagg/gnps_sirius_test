@@ -1,0 +1,5 @@
+demo-data-sirius/.DS_Store
+my_demo-data/.ipynb_checkpoints
+my_demo-data/my_results/.ipynb_checkpoints
+sirius_local_gui/negative/*_negative_features_*
+sirius_local_gui/positive/*_positive_features_*
